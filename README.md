@@ -15,7 +15,7 @@ It will healthcheck in the end with `check.tf`
 - bash (used by local-exec tests)
 
 # Apis needed to be enabled in GCP
-  If your account haven't enabled some services you can get an error with the link to follow to enable it
+  If your account haven't enabled some services you will get an error with the link to follow and enable it.
  - compute engine (https://cloud.google.com/compute)
  - iam policy (https://console.developers.google.com/apis/api/iam.googleapis.com/overview)
 
